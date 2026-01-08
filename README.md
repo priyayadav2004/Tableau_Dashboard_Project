@@ -1,4 +1,4 @@
 # Tableau_Dashboard_Project
-this is the tableau end to end project
-Created a dashboard using tableau
+This is the Tableau end to end project
+Created a dashboard using Tableau
 
